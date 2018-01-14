@@ -4,7 +4,9 @@ This document describes the details of the linux server configured for one of th
 
 ## Server address
 **IP Address**: 139.162.200.46
+
 **SSH Port**: 2200
+
 **Website Address**: https://catalog.desmondchin.com
 
 ## Software installed on the server
